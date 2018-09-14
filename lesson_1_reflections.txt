@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helps mme to think only about what is different and helps to find the 
+    bug easily.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It helps me better in finding bugs and allows me to compare broken versions 
+    and working versions of the code.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    It is quite simple on my part to use the versions saved auotmatically, But 
+    might I don't have working version save and I won't able to compare the 
+    versions of my files.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    It is quite helpful if all the changes are included in one commit. If they 
+    are independent it would be hard to find and revert to the older versionof file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log will shows all the commits, versions of my files by which 
+    I can see the messages for each commit. to see deep into any commit git 
+    diff is used to compare the new version with old version of the file.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    As I am using version control it helps me to keep track of all the 
+    versions of my code so whenever I got stuck in between. It will also
+    help to figure out why the code has been broken.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I use git for to keep tracks of all the documents that I have created in this
+    course. I also use it for resume. I also like to use the Git for reflectons 
+    and my projects on which I am working. 
